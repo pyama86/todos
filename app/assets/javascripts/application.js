@@ -15,5 +15,5 @@
 //= require underscore
 //= require backbone
 //= require backbone.localStorage
-//= require todos
+//= require todo
 
